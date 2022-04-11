@@ -2,8 +2,8 @@
 ## Contents
 * My Design List
 * Others
-* * Photo Gallery
-* * Old files
+  * Photo Gallery
+  * Old files
 
 
 # My Design List
